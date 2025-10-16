@@ -1,0 +1,7 @@
+numpy
+matplotlib
+imageio==2.*
+Pillow
+scikit-learn
+opencv-python
+scikit-surprise
